@@ -99,6 +99,5 @@ Specializations:
   </a>
 </p>
 <p align="center">
- ![image](https://github.com/Sahil4958/Sushiman/assets/116612889/aa581d88-0385-4029-a495-d456bbc31fcd)
-
+<img src="https://github.com/Sahil4958/Sushiman/assets/116612889/aa581d88-0385-4029-a495-d456bbc31fcd" alt="Sahil's Logo Image"/>
 </p>
