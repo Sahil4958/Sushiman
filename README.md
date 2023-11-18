@@ -6,7 +6,7 @@ This is my project using Vite
 
 A website that is a landing page of a Sushi restaurant displaying its varieties of Japanese Food, Services, and many more.
 
-This Project is hosted in Vercel : [Sushiman](https://sushimanbysahil.netlify.app/)
+This Project is hosted in Vercel : [Sushiman](https://sushiman-navy.vercel.app/)
 
 ## :star: Give A Star
 
@@ -90,9 +90,14 @@ Specializations:
 - Sahil Vaidya
 
 <p align="left">
+
+  
   <a href="https://skillicons.dev">
     <a href="https://github.com/Sahil4958">
       <img src="https://skillicons.dev/icons?i=github" />
     </a>
   </a>
+</p>
+<p align="center">
+  ![116612889](https://github.com/Sahil4958/Sushiman/assets/116612889/e2489ef2-3e54-443b-8678-8ecdd797ade7)
 </p>
