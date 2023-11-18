@@ -99,5 +99,6 @@ Specializations:
   </a>
 </p>
 <p align="center">
-  ![116612889](https://github.com/Sahil4958/Sushiman/assets/116612889/e2489ef2-3e54-443b-8678-8ecdd797ade7)
+ ![image](https://github.com/Sahil4958/Sushiman/assets/116612889/aa581d88-0385-4029-a495-d456bbc31fcd)
+
 </p>
